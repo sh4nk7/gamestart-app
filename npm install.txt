@@ -1,0 +1,25 @@
+npm install redux
+npm install react-router-dom
+npm install react-responsive-carousel
+npm install react-redux
+npm install react-paypal-button-v2
+npm install react-google-charts
+npm install react-dom
+npm install react
+npm install google-maps-react@2.0.6
+npm install --save react-google-maps
+npm install axios
+npm i -S @react-google-maps/api
+npm install react-scripts
+npm install mailgun-js
+npm install jsonwebtoken
+npm install multer
+npm install bcryptjs
+npm install  express-async-handler
+npm install dotenv 
+npm install mongoose  
+npm install express  
+npm install -g nodemon 
+npm install socket.io  
+npm install redux-thunk 
+npm install socket.io-client
